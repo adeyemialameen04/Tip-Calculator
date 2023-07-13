@@ -58,3 +58,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 ## Acknowledgements
 
 - [Normalize.css](https://necolas.github.io/normalize.css/) - A CSS reset stylesheet used to standardize styles across different browsers.
+
+- ## Live Site
+- https://tip-calcutor.vercel.app
