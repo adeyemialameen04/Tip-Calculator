@@ -12,7 +12,7 @@ This is a simple tip calculator built with HTML, CSS, and JavaScript. It allows 
 
 ## Demo
 
-You can see a live demo of the tip calculator [here](https://example.com).
+You can see a live demo of the tip calculator [here](https://tip-calcutor.vercel.app).
 
 ## Features
 
@@ -59,5 +59,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 - [Normalize.css](https://necolas.github.io/normalize.css/) - A CSS reset stylesheet used to standardize styles across different browsers.
 
-- ## Live Site
-- https://tip-calcutor.vercel.app
+
