@@ -26,7 +26,7 @@ You can see a live demo of the tip calculator [here](https://tip-calcutor.vercel
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tip-calculator.git
+git clone https://github.com/adeyemialameen04/Tip-Calculator.git
 ```
 
 2. Navigate to the project directory:
